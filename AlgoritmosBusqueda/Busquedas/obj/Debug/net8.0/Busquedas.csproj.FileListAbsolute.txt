@@ -1,0 +1,15 @@
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.AssemblyInfoInputs.cache
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.AssemblyInfo.cs
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.csproj.CoreCompileInputs.cache
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.sourcelink.json
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\bin\Debug\net8.0\Busquedas.exe
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\bin\Debug\net8.0\Busquedas.deps.json
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\bin\Debug\net8.0\Busquedas.runtimeconfig.json
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\bin\Debug\net8.0\Busquedas.dll
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\bin\Debug\net8.0\Busquedas.pdb
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.dll
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\refint\Busquedas.dll
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.pdb
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\Busquedas.genruntimeconfig.cache
+C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\obj\Debug\net8.0\ref\Busquedas.dll

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.895833333333333" branch-rate="0.9" lines-covered="43" lines-valid="48" branches-covered="9" branches-valid="10" complexity="16" version="0" timestamp="1746300007">
+  <sources />
+  <packages>
+    <package name="Busquedas" line-rate="0.833333333333333" branch-rate="0.9" complexity="11">
+      <classes>
+        <class name="BusquedaAlgoritmos.Busquedas" filename="C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\Program.cs" line-rate="0.892857142857143" branch-rate="0.9" complexity="10">
+          <methods>
+            <method name="BusquedaLineal" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="10" hits="1" branch="false" />
+                <line number="11" hits="1" branch="true" condition-coverage="100% (2/2)" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="true" condition-coverage="100% (2/2)" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="BusquedaBinaria" signature="(...)" line-rate="0.842105263157895" branch-rate="0.833333333333333" complexity="6">
+              <lines>
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="1" branch="true" condition-coverage="100% (2/2)" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="1" branch="true" condition-coverage="100% (2/2)" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="35" hits="1" branch="true" condition-coverage="50% (1/2)" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="1" branch="false" />
+            <line number="11" hits="1" branch="true" condition-coverage="100% (2/2)" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="true" condition-coverage="100% (2/2)" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="1" branch="true" condition-coverage="100% (2/2)" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="1" branch="true" condition-coverage="100% (2/2)" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="35" hits="1" branch="true" condition-coverage="50% (1/2)" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="BusquedaAlgoritmos.Program" filename="C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\Busquedas\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="52" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="52" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="BusquedasTests" line-rate="1" branch-rate="1" complexity="5">
+      <classes>
+        <class name="BusquedaAlgoritmos.Tests.BusquedasTests" filename="C:\Users\Sarimoca\source\repos\Sarimoca\CA_6\AlgoritmosBusqueda\BusquedasTests\Test1.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Lineal_ElementoExistente_DevuelveIndiceCorrecto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Lineal_ElementoNoExistente_DevuelveMenosUno" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Binaria_ElementoExistente_DevuelveIndiceCorrecto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Binaria_ElementoNoExistente_DevuelveMenosUno" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="10" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
